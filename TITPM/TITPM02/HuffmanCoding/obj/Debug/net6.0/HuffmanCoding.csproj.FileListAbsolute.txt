@@ -1,0 +1,15 @@
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\bin\Debug\net6.0\HuffmanCoding.exe
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\bin\Debug\net6.0\HuffmanCoding.deps.json
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\bin\Debug\net6.0\HuffmanCoding.runtimeconfig.json
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\bin\Debug\net6.0\HuffmanCoding.dll
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\bin\Debug\net6.0\HuffmanCoding.pdb
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.csproj.AssemblyReference.cache
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.AssemblyInfoInputs.cache
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.AssemblyInfo.cs
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.csproj.CoreCompileInputs.cache
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.dll
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\refint\HuffmanCoding.dll
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.pdb
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\HuffmanCoding.genruntimeconfig.cache
+D:\Zajecies\TITPM\TITPM02\HuffmanCoding\obj\Debug\net6.0\ref\HuffmanCoding.dll
