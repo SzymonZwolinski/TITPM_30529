@@ -1,0 +1,15 @@
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\bin\Debug\net6.0\ShanonnFano.exe
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\bin\Debug\net6.0\ShanonnFano.deps.json
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\bin\Debug\net6.0\ShanonnFano.runtimeconfig.json
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\bin\Debug\net6.0\ShanonnFano.dll
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\bin\Debug\net6.0\ShanonnFano.pdb
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.csproj.AssemblyReference.cache
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.AssemblyInfoInputs.cache
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.AssemblyInfo.cs
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.csproj.CoreCompileInputs.cache
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.dll
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\refint\ShanonnFano.dll
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.pdb
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ShanonnFano.genruntimeconfig.cache
+D:\Zajecies\TITPM\TITPM03\ShanonnFano\obj\Debug\net6.0\ref\ShanonnFano.dll
