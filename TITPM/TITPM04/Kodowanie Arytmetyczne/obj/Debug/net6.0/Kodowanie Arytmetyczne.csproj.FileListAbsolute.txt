@@ -1,0 +1,15 @@
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\bin\Debug\net6.0\Kodowanie Arytmetyczne.exe
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\bin\Debug\net6.0\Kodowanie Arytmetyczne.deps.json
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\bin\Debug\net6.0\Kodowanie Arytmetyczne.runtimeconfig.json
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\bin\Debug\net6.0\Kodowanie Arytmetyczne.dll
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\bin\Debug\net6.0\Kodowanie Arytmetyczne.pdb
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.csproj.AssemblyReference.cache
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.AssemblyInfoInputs.cache
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.AssemblyInfo.cs
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.csproj.CoreCompileInputs.cache
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.dll
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\refint\Kodowanie Arytmetyczne.dll
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.pdb
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\Kodowanie Arytmetyczne.genruntimeconfig.cache
+D:\Zajecies\TITPM\TITPM04\Kodowanie Arytmetyczne\obj\Debug\net6.0\ref\Kodowanie Arytmetyczne.dll
