@@ -1,0 +1,15 @@
+D:\Zajecies\TITPM\TITPM05\slownikowy\bin\Debug\net6.0\slownikowy.exe
+D:\Zajecies\TITPM\TITPM05\slownikowy\bin\Debug\net6.0\slownikowy.deps.json
+D:\Zajecies\TITPM\TITPM05\slownikowy\bin\Debug\net6.0\slownikowy.runtimeconfig.json
+D:\Zajecies\TITPM\TITPM05\slownikowy\bin\Debug\net6.0\slownikowy.dll
+D:\Zajecies\TITPM\TITPM05\slownikowy\bin\Debug\net6.0\slownikowy.pdb
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.csproj.AssemblyReference.cache
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.AssemblyInfoInputs.cache
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.AssemblyInfo.cs
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.csproj.CoreCompileInputs.cache
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.dll
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\refint\slownikowy.dll
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.pdb
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\slownikowy.genruntimeconfig.cache
+D:\Zajecies\TITPM\TITPM05\slownikowy\obj\Debug\net6.0\ref\slownikowy.dll
